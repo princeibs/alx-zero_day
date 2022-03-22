@@ -1,1 +1,6 @@
-> A non-empty readme
+# 0x03 - Git
+This directory contains the 4th task on the **_0-Day_** segment in **_Section 1_**
+
+- `up_to_date` - A bash script containing the command to pull changes from remote GitHub repository
+- `bash` - Contains dummy bash files used to practice the use of Git and GitHub
+- `c` - Also contains dummy c files used to practice the use of Git and GitHub
